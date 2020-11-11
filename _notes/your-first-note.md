@@ -5,6 +5,8 @@ image: /assets/image.jpg
 
 ### Welcome!
 
+### ceci est un test, je souhaite rediriger vers [[hello]]
+
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory.
 
 ### Link syntax
